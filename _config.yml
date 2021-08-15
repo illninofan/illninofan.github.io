@@ -34,3 +34,6 @@ defaults:
       type: post
     values:
       tags: Other
+   
+excerpt_separator: <!--more-->
+
