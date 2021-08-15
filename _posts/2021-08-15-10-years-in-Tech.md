@@ -6,7 +6,7 @@ My first venture into Tech as a career
 
 I started as a graduate at LV= (a UK insurance company) as a PL/SQL developer working on migrating Oracle 10G to 11.
 
-I uprooted myself and moved down to lovely Exeter, a shift from Yorkshire to moreo or less the bottom end of the UK!
+I uprooted myself and moved down to lovely Exeter, a shift from Yorkshire to more or less the bottom end of the UK!
 
 ---
 
@@ -56,13 +56,13 @@ One and half hours into the journey, we end up in some gridlock traffic, turns o
 
 Time starts ticking ⏰
 
-I need to be at the FDM office for 12pm.
+I need to be at the FDM office for 12pm 😲
 
 Queue the human sat-nav known as my dad. 🗺️
 
 Numerous country roads, fields and a small village or town, we're back on a stretch of the motorway and merrily on our way.
 
-⏩
+⏩⏩
 
 5 minute to spare and I rush into the FDM office building. Yeah talk about punctual...
 
