@@ -1,7 +1,7 @@
 Hey, I'm Umar, welcome to my blog!
 
-I'm a Tech enthusiast / nerd.
+I'm a 👨‍💻 / 🤓
 
-This is just place for my musings throughout my career and stuff I find useful / cool
+This is just a place for musings throughout my career in IT and stuff I find useful / cool
 
-Feel free to reach me on twitter - @scruffy_zebra
+Feel free to reach me on twitter - @scruffy_zebra and say Hi!
