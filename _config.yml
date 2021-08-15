@@ -35,6 +35,4 @@ defaults:
     values:
       tags: Other
    
-excerpt_separator:
-  <!--more-->
-
+excerpt_length: 60
