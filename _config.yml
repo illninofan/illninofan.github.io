@@ -19,6 +19,8 @@ theme: "minima"
 kramdown:
   syntax_highlighter_opts:
     disable: true
+
+excerpt_length: 60
     
 plugins:
   - jekyll-feed
@@ -34,5 +36,3 @@ defaults:
       type: post
     values:
       tags: Other
-   
-excerpt_length: 60
