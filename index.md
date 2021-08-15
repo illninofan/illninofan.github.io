@@ -1,3 +1,8 @@
+---
+layout: post
+title: Blogging Like a Hacker
+---
+
 Hey, I'm Umar, welcome to my blog!
 
 I'm a 👨‍💻 / 🤓
