@@ -7,7 +7,7 @@ My first venture into Tech as a career
 I started as a graduate at LV= (a UK insurance company) as a PL/SQL developer working on migrating Oracle 10G to 11.
 
 I uprooted myself and moved down to lovely Exeter, a shift from Yorkshire to more or less the bottom end of the UK!
- <!--end_excerpt-->
+ 
 ---
 
 ### Hey, wait, how did I end up here?
@@ -65,6 +65,11 @@ Numerous country roads, fields and a small village or town, we're back on a stre
 ⏩⏩
 
 5 minute to spare and I rush into the FDM office building. Yeah talk about punctual...
+
+Interview - ✔️
+Logic Test - ✔️
+
+
 
 
 
