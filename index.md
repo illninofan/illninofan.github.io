@@ -1,5 +1,7 @@
-Here you can say lots of fun things about your site.
+Hey, I'm Umar, welcome to my blog!
 
-Maybe say a some things about yourself.
+I'm a Tech enthusiast / nerd.
 
-Or maybe what you plan to blog about.
+This is just place for my musings throughout my career and stuff I find useful / cool
+
+Feel free to reach me on twitter - @scruffy_zebra
