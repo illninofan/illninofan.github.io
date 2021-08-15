@@ -4,4 +4,4 @@ I'm a 👨‍💻 / 🤓
 
 This is just a place for musings throughout my career in IT and stuff I find useful / cool
 
-Feel free to reach me on twitter - @scruffy_zebra and say Hi!
+Feel free to reach me on twitter - [@scruffy_zebra](https://twitter.com/scruffy_zebra) and say Hi!
