@@ -23,7 +23,7 @@ kramdown:
 excerpt_length: 60
     
 plugins:
-  - jekyll-feed
+ # - jekyll-feed
   - jekyll-sitemap
 
 titles_from_headings:
