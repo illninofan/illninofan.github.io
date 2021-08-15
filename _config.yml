@@ -22,10 +22,10 @@ kramdown:
     
 excerpt_separator: <!--end_excerpt-->
 
-excerpt_length: 60
+excerpt_length: 25
     
 plugins:
- # - jekyll-feed
+  - jekyll-feed
   - jekyll-sitemap
 
 titles_from_headings:
