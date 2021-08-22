@@ -22,7 +22,7 @@ kramdown:
     
 excerpt_separator: <!--end_excerpt-->
 
-excerpt_length: 25
+excerpt_length: 10
     
 plugins:
   - jekyll-feed
